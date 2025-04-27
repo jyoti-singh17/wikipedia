@@ -24,7 +24,7 @@ html,body{
     height: 200px;
     width: 180px;
     border-radius: 50%;
-    background-image: url(../kalam1.jpg);
+    background-image: url(./kalam1.jpg);
     background-size: cover;
     background-color: rgb(128, 88, 36);
 }
